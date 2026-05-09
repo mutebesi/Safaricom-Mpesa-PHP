@@ -31,7 +31,7 @@ git clone https://github.com/mutebesi/safaricom-mpesa-php.git
 
 If using Composer:
 ```bash
-composer require mutebesi/Safaricom-Mpesa-PHP
+composer require mutebesi/safaricom-mpesa-php
 ```
 
 ### 2. Configuration
