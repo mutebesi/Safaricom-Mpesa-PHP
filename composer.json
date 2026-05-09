@@ -1,5 +1,5 @@
 {
-    "name": "mutebesi/Safaricom-Mpesa-PHP",
+    "name": "mutebesi/safaricom-mpesa-php",
     "description": "A full-featured M-Pesa PHP SDK with advanced callback routing and proxy capabilities.",
     "type": "library",
     "license": "MIT",
