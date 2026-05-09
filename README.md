@@ -26,7 +26,7 @@ Unlike standard M-Pesa libraries, this SDK features an **Advanced Callback Route
 ### 1. Installation
 Clone this repository or include it in your project:
 ```bash
-git clone https://github.com/mutebesi/Safaricom-Mpesa-PHP.git
+git clone https://github.com/mutebesi/safaricom-mpesa-php.git
 ```
 
 If using Composer:
