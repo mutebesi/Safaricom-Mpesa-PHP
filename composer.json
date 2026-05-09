@@ -1,12 +1,12 @@
 {
-    "name": "muteb/mpesa-php-sdk",
+    "name": "mutebesi/mpesa-php-sdk",
     "description": "A full-featured M-Pesa PHP SDK with advanced callback routing and proxy capabilities.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Muteb",
-            "email": "muteb@example.com"
+            "name": "Augustus Billt",
+            "email": "ceo@eanso.com"
         }
     ],
     "require": {
